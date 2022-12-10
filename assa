@@ -1,0 +1,1635 @@
+{
+    "payment_channel_info": {
+        "channels": [
+            {
+                "disabled_reason_learn_more": "",
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "priority": 12,
+                "hint": "",
+                "subcategory": 27,
+                "country": "ID",
+                "payment_result_text": "Silakan cek notifikasi untuk mengetahui status pengiriman.",
+                "option_keys_name": [],
+                "selected_channel_item": {
+                    "error_message": "",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "expiry_date": "",
+                        "agency_shortname": "",
+                        "bank_id": 0,
+                        "bank_name": "",
+                        "card_number": "",
+                        "agency_uen": "",
+                        "identifier": "",
+                        "logo_url": ""
+                    },
+                    "error_code": 0
+                },
+                "ccb_link": "",
+                "name": "ShopeePay",
+                "payment_channel_banners": [],
+                "pin_set_up_needed": false,
+                "is_new": false,
+                "category": 27,
+                "info_text": "",
+                "channel_provider": "",
+                "version": 2,
+                "flag": 44023419240449,
+                "always_show": true,
+                "disabled_reason_title": "",
+                "spm_channel_id": 8001400,
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "wallet_balance": 0,
+                "icon": "https://shopee.co.id/static/images/ic_paymentoption_shopeewallet_v2.png",
+                "channel_id": 8001400,
+                "description": "",
+                "name_label": "label_shopee_wallet_v2",
+                "disabled_reason_learn_more_button_text": "",
+                "activation_needed": false,
+                "spm_extra_data": "",
+                "be_channel_id": 80030,
+                "has_wallet": false,
+                "combined_reminder_text": "",
+                "preselect_disabled": false,
+                "extra_data": {
+                    "eligible_transfer": "",
+                    "sub_description_1": "",
+                    "expiry_duration": 0,
+                    "expiry_extension": 0,
+                    "price_limit": 0,
+                    "alternate_channel_ids": [],
+                    "min_amount": 0,
+                    "sub_description_2": "",
+                    "voucher_payment_type": 0,
+                    "include_shipping_and_discounts": false,
+                    "v1_channel_grouping_info": {
+                        "version": 0,
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0
+                    },
+                    "banned_categories": [],
+                    "max_checkout_price": 0
+                },
+                "balance": 251600000,
+                "topup_needed": true,
+                "ccb_text": "",
+                "spm_option_info": "",
+                "info_link": "",
+                "kyc_enforcement_needed": false,
+                "groups": {
+                    "spm_channel": true,
+                    "cod": false,
+                    "airpay": false,
+                    "immediate": true,
+                    "credit_card": false,
+                    "wallet": true,
+                    "bank_account": false,
+                    "installment": false,
+                    "seabank": false,
+                    "spl": false,
+                    "general_card": false,
+                    "bank_transfer": false
+                },
+                "disabled_reason": "Maaf, saldo ShopeePay-mu tidak mencukupi. Mohon gunakan metode pembayaran lainnya.",
+                "enabled": false,
+                "disabled_reason_key": 14,
+                "promotions": [],
+                "icon_background": "",
+                "channel_blackbox": "",
+                "display_message": "",
+                "checkout_exposure": false,
+                "pin_reset_needed": false,
+                "currency": "IDR"
+            },
+            {
+                "groups": {
+                    "immediate": false,
+                    "credit_card": false,
+                    "general_card": false,
+                    "bank_transfer": false,
+                    "seabank": false,
+                    "spl": false,
+                    "wallet": false,
+                    "bank_account": false,
+                    "installment": false,
+                    "spm_channel": false,
+                    "cod": true,
+                    "airpay": false
+                },
+                "preselect_disabled": false,
+                "info_link": "https://shopee.co.id/m/tentang-cod",
+                "channelid": 89000,
+                "icon_background": "",
+                "priority": 13,
+                "info_text": "",
+                "disabled_reason_learn_more": "",
+                "selected_channel_item": {
+                    "error_code": 0,
+                    "error_message": "",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "card_number": "",
+                        "agency_uen": "",
+                        "bank_id": 0,
+                        "logo_url": "",
+                        "bank_name": "",
+                        "expiry_date": "",
+                        "agency_shortname": "",
+                        "identifier": ""
+                    }
+                },
+                "channel_provider": "",
+                "ccb_link": "",
+                "flag": 11029476024337,
+                "extra_data": {
+                    "v1_channel_grouping_info": {
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0,
+                        "channel_ids_to_combine": [],
+                        "channel_name": ""
+                    },
+                    "max_checkout_price": 0,
+                    "min_amount": 0,
+                    "expiry_duration": 259200,
+                    "expiry_extension": 0,
+                    "eligible_transfer": "",
+                    "include_shipping_and_discounts": false,
+                    "banned_categories": [
+                        2160,
+                        100642
+                    ],
+                    "sub_description_1": "",
+                    "sub_description_2": "",
+                    "alternate_channel_ids": [],
+                    "price_limit": 0,
+                    "voucher_payment_type": 0
+                },
+                "option_keys_name": [],
+                "version": 1,
+                "disabled_reason_title": "",
+                "has_wallet": false,
+                "name_label": "label_cod",
+                "spm_extra_data": "",
+                "combined_reminder_text": "",
+                "always_show": false,
+                "is_new": false,
+                "spm_option_info": "",
+                "disabled_reason_key": 40,
+                "disabled_reason_learn_more_button_text": "",
+                "channel_behavior": {},
+                "name": "COD (Bayar di Tempat)",
+                "be_channel_id": 89000,
+                "wallet_balance": 0,
+                "channel_blackbox": "",
+                "description": "Cash on Delivery",
+                "currency": "IDR",
+                "spm_channel_id": 0,
+                "promotions": [],
+                "hint": "",
+                "category": 6,
+                "subcategory": 6,
+                "icon": "https://mall.shopee.co.id/static/images/ic_paymentoption_cod.png",
+                "country": "ID",
+                "enabled": false,
+                "disabled_reason": "Metode pembayaran COD (Bayar di Tempat) hanya berlaku untuk toko yang mengaktifkan COD.",
+                "payment_result_text": "",
+                "payment_channel_banners": [],
+                "ccb_text": "",
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "display_message": "",
+                "checkout_exposure": false
+            },
+            {
+                "subcategory": 41,
+                "icon_background": "",
+                "country": "ID",
+                "name": "Transfer Bank",
+                "info_link": "",
+                "spm_extra_data": "",
+                "promotions": [],
+                "wallet_balance": 0,
+                "disabled_reason_learn_more_button_text": "",
+                "hint": "",
+                "spm_channel_id": 8005200,
+                "version": 2,
+                "preselect_disabled": false,
+                "spm_option_info": "",
+                "enabled": true,
+                "payment_result_text": "",
+                "extra_data": {
+                    "min_amount": 0,
+                    "expiry_extension": 0,
+                    "voucher_payment_type": 0,
+                    "include_shipping_and_discounts": false,
+                    "expiry_duration": 0,
+                    "eligible_transfer": "",
+                    "alternate_channel_ids": [],
+                    "price_limit": 0,
+                    "v1_channel_grouping_info": {
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0
+                    },
+                    "banned_categories": [],
+                    "max_checkout_price": 0,
+                    "sub_description_1": "",
+                    "sub_description_2": ""
+                },
+                "ccb_link": "",
+                "description": "",
+                "disabled_reason_learn_more": "",
+                "checkout_exposure": false,
+                "option_keys_name": [
+                    "banks"
+                ],
+                "icon": "https://shopee.co.id/static/images/ic_paymentoption_banktransfer.png",
+                "groups": {
+                    "spl": false,
+                    "credit_card": false,
+                    "wallet": false,
+                    "installment": false,
+                    "general_card": false,
+                    "spm_channel": true,
+                    "bank_transfer": true,
+                    "seabank": false,
+                    "immediate": false,
+                    "bank_account": false,
+                    "cod": false,
+                    "airpay": false
+                },
+                "is_new": false,
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "has_wallet": false,
+                "combined_reminder_text": "",
+                "disabled_reason": "",
+                "disabled_reason_key": 0,
+                "be_channel_id": 80060,
+                "disabled_reason_title": "",
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "banks": [
+                    {
+                        "bank_name": "SeaBank",
+                        "icon": "https://shopee.co.id/static/images/img_bankid_seabank.png",
+                        "icon_background": "",
+                        "popup_confirmation_data": {
+                            "need_popup": true,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran"
+                        },
+                        "description": "",
+                        "deep_link": "",
+                        "hide": false,
+                        "be_channel_id": 80067,
+                        "icon_label": "",
+                        "option_info": "89052007",
+                        "disabled_reason": "",
+                        "sub_description_info": {
+                            "important": "Bebas Biaya Penanganan",
+                            "normal": ""
+                        },
+                        "handling_fee": 0,
+                        "info_link": "",
+                        "enabled": true
+                    },
+                    {
+                        "description": "",
+                        "bank_name": "Bank BCA",
+                        "enabled": true,
+                        "sub_description_info": {
+                            "important": "",
+                            "normal": ""
+                        },
+                        "deep_link": "",
+                        "popup_confirmation_data": {
+                            "need_popup": false,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran"
+                        },
+                        "disabled_reason": "",
+                        "icon": "https://shopee.co.id/static/images/img_bankid_bca.png",
+                        "icon_background": "",
+                        "handling_fee": 0,
+                        "icon_label": "",
+                        "option_info": "89052001",
+                        "hide": false,
+                        "be_channel_id": 80061,
+                        "info_link": ""
+                    },
+                    {
+                        "hide": false,
+                        "option_info": "89052002",
+                        "disabled_reason": "",
+                        "icon": "https://shopee.co.id/static/images/img_bankid_mandiri.png",
+                        "info_link": "",
+                        "enabled": true,
+                        "icon_background": "",
+                        "handling_fee": 0,
+                        "icon_label": "",
+                        "description": "",
+                        "bank_name": "Bank Mandiri",
+                        "sub_description_info": {
+                            "important": "",
+                            "normal": ""
+                        },
+                        "deep_link": "",
+                        "popup_confirmation_data": {
+                            "need_popup": true,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran"
+                        },
+                        "be_channel_id": 80062
+                    },
+                    {
+                        "sub_description_info": {
+                            "normal": "",
+                            "important": ""
+                        },
+                        "deep_link": "",
+                        "handling_fee": 0,
+                        "be_channel_id": 80063,
+                        "description": "",
+                        "bank_name": "Bank BNI",
+                        "disabled_reason": "",
+                        "icon": "https://shopee.co.id/static/images/img_bankid_bni.png",
+                        "icon_background": "",
+                        "info_link": "",
+                        "enabled": true,
+                        "popup_confirmation_data": {
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran",
+                            "need_popup": false
+                        },
+                        "icon_label": "",
+                        "option_info": "89052003",
+                        "hide": false
+                    },
+                    {
+                        "bank_name": "Bank BRI",
+                        "disabled_reason": "",
+                        "popup_confirmation_data": {
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran",
+                            "need_popup": false
+                        },
+                        "hide": false,
+                        "icon_label": "",
+                        "info_link": "",
+                        "enabled": true,
+                        "icon": "https://shopee.co.id/static/images/img_bankid_bri.png",
+                        "sub_description_info": {
+                            "important": "",
+                            "normal": ""
+                        },
+                        "deep_link": "",
+                        "description": "",
+                        "be_channel_id": 80064,
+                        "option_info": "89052004",
+                        "icon_background": "",
+                        "handling_fee": 0
+                    },
+                    {
+                        "popup_confirmation_data": {
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran",
+                            "need_popup": false
+                        },
+                        "hide": false,
+                        "be_channel_id": 80065,
+                        "icon_label": "",
+                        "option_info": "89052005",
+                        "description": "",
+                        "icon": "https://shopee.co.id/static/images/img_bankid_bsm.png",
+                        "bank_name": "Bank Syariah Indonesia (BSI)",
+                        "info_link": "",
+                        "handling_fee": 0,
+                        "enabled": true,
+                        "icon_background": "",
+                        "sub_description_info": {
+                            "normal": "",
+                            "important": ""
+                        },
+                        "disabled_reason": "",
+                        "deep_link": ""
+                    },
+                    {
+                        "enabled": true,
+                        "disabled_reason": "",
+                        "handling_fee": 0,
+                        "hide": false,
+                        "bank_name": "Bank Permata",
+                        "icon_background": "",
+                        "be_channel_id": 80066,
+                        "icon": "https://shopee.co.id/static/images/img_bankid_permata.png",
+                        "popup_confirmation_data": {
+                            "need_popup": false,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran"
+                        },
+                        "icon_label": "",
+                        "info_link": "",
+                        "option_info": "89052006",
+                        "description": "",
+                        "sub_description_info": {
+                            "normal": "",
+                            "important": ""
+                        },
+                        "deep_link": ""
+                    },
+                    {
+                        "description": "",
+                        "enabled": true,
+                        "icon": "https://shopee.co.id/static/images/img_bankid_other_banks.png",
+                        "icon_background": "",
+                        "sub_description_info": {
+                            "important": "Menerima transfer bank lainnya",
+                            "normal": ""
+                        },
+                        "handling_fee": 0,
+                        "be_channel_id": 80068,
+                        "disabled_reason": "",
+                        "deep_link": "",
+                        "popup_confirmation_data": {
+                            "need_popup": true,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran"
+                        },
+                        "hide": false,
+                        "option_info": "89052902",
+                        "bank_name": "Bank lainnya",
+                        "info_link": "",
+                        "icon_label": ""
+                    }
+                ],
+                "payment_channel_banners": [],
+                "selected_channel_item": {
+                    "error_code": 0,
+                    "error_message": "",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "logo_url": "",
+                        "bank_name": "",
+                        "expiry_date": "",
+                        "agency_uen": "",
+                        "identifier": "",
+                        "bank_id": 0,
+                        "card_number": "",
+                        "agency_shortname": ""
+                    }
+                },
+                "currency": "IDR",
+                "channel_provider": "",
+                "ccb_text": "",
+                "category": 41,
+                "priority": 17,
+                "flag": 44023436025921,
+                "always_show": false,
+                "channel_id": 8005200,
+                "name_label": "label_offline_bank_transfer",
+                "channel_blackbox": "",
+                "display_message": "",
+                "info_text": ""
+            },
+            {
+                "version": 2,
+                "info_text": "",
+                "combined_reminder_text": "",
+                "selected_channel_item": {
+                    "error_message": "default card nil",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "agency_shortname": "",
+                        "identifier": "",
+                        "card_number": "",
+                        "expiry_date": "",
+                        "agency_uen": "",
+                        "logo_url": "",
+                        "bank_id": 0,
+                        "bank_name": ""
+                    },
+                    "error_code": 1
+                },
+                "info_link": "",
+                "disabled_reason_learn_more_button_text": "",
+                "payment_channel_hints": [],
+                "checkout_exposure": false,
+                "option_keys_name": [],
+                "icon": "https://shopee.co.id/static/images/ic_paymentoption_creditcard.png",
+                "spm_channel_id": 8002050,
+                "spm_option_info": "",
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "hint": "",
+                "is_new": false,
+                "has_wallet": false,
+                "be_channel_id": 81510,
+                "channel_provider": "",
+                "payment_channel_banners": [],
+                "always_show": false,
+                "enabled": true,
+                "extra_data": {
+                    "sub_description_2": "",
+                    "v1_channel_grouping_info": {
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0
+                    },
+                    "max_checkout_price": 0,
+                    "expiry_duration": 0,
+                    "price_limit": 0,
+                    "alternate_channel_ids": [],
+                    "banned_categories": [],
+                    "expiry_extension": 0,
+                    "voucher_payment_type": 0,
+                    "eligible_transfer": "",
+                    "min_amount": 0,
+                    "include_shipping_and_discounts": false,
+                    "sub_description_1": ""
+                },
+                "cards": [],
+                "ccb_text": "",
+                "preselect_disabled": true,
+                "name_label": "label_credit_debit_card",
+                "subcategory": 15,
+                "flag": 44023452816449,
+                "name": "Kartu Kredit/Debit",
+                "promotions": [
+                    {
+                        "discount_type": 1,
+                        "card_promotion_id": 5601,
+                        "bank_logo": "https://cf.shopee.co.id/file/8c985d48d2ea2451d0c44e846bad2c87",
+                        "primary_color": "#1D2F61",
+                        "is_fully_redeemed": false,
+                        "url": "https://shopee.co.id/mndvoucher",
+                        "title": "DISKON",
+                        "start_time": 1670173236,
+                        "end_time": 1670777958,
+                        "description": "Min. Pemb. 350RB",
+                        "discount_value": "25000"
+                    },
+                    {
+                        "card_promotion_id": 5606,
+                        "start_time": 1669827609,
+                        "end_time": 1670777957,
+                        "url": "https://shopee.co.id/m/promo-spesial-digibank-pcp",
+                        "discount_value": "20000",
+                        "discount_type": 1,
+                        "primary_color": "#F2B134",
+                        "is_fully_redeemed": true,
+                        "description": "Kuota promosi telah habis",
+                        "title": "DISKON",
+                        "bank_logo": "https://cf.shopee.co.id/file/499297d4fb4831e42deb867e45b5999b"
+                    },
+                    {
+                        "end_time": 1670777980,
+                        "url": "https://shopee.co.id/mndvoucher",
+                        "title": "DISKON",
+                        "card_promotion_id": 5605,
+                        "primary_color": "#1D2F61",
+                        "is_fully_redeemed": true,
+                        "description": "Kuota promosi telah habis",
+                        "discount_value": "20000",
+                        "discount_type": 1,
+                        "bank_logo": "https://cf.shopee.co.id/file/8c985d48d2ea2451d0c44e846bad2c87",
+                        "start_time": 1670173230
+                    },
+                    {
+                        "description": "Kuota promosi telah habis",
+                        "url": "https://shopee.co.id/linedaily",
+                        "card_promotion_id": 5472,
+                        "bank_logo": "https://cf.shopee.co.id/file/81c93292df1e3774d1053725f05e4035",
+                        "primary_color": "#06C755",
+                        "is_fully_redeemed": true,
+                        "title": "DISKON",
+                        "discount_value": "20000",
+                        "discount_type": 1,
+                        "start_time": 1664593200,
+                        "end_time": 1672498800
+                    }
+                ],
+                "description": "",
+                "country": "ID",
+                "currency": "IDR",
+                "wallet_balance": 0,
+                "channel_id": 8002050,
+                "priority": 104,
+                "disabled_reason_key": 0,
+                "disabled_reason_title": "",
+                "display_message": "",
+                "spm_extra_data": "",
+                "groups": {
+                    "general_card": true,
+                    "cod": false,
+                    "bank_transfer": false,
+                    "seabank": false,
+                    "spl": false,
+                    "immediate": false,
+                    "credit_card": true,
+                    "wallet": false,
+                    "bank_account": false,
+                    "installment": false,
+                    "spm_channel": true,
+                    "airpay": false
+                },
+                "category": 1,
+                "disabled_reason_learn_more": "",
+                "payment_result_text": "",
+                "ccb_link": "",
+                "icon_background": "",
+                "disabled_reason": "",
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "add_card_url": {
+                    "ui": "https://shopee.co.id/payment/channel_item/add/8002050/ui?post_to_tpp=True&block_cc=False&add_card_scene=1&__mobile__=1",
+                    "version": "1"
+                },
+                "channel_blackbox": ""
+            },
+            {
+                "country": "ID",
+                "currency": "IDR",
+                "payment_result_text": "",
+                "wallet_balance": 0,
+                "ccb_text": "",
+                "disabled_reason": "Minimal transaksi menggunakan metode pembayaran ini adalah Rp500.000. Silakan pilih metode pembayaran lainnya untuk checkout.",
+                "disabled_reason_learn_more": "",
+                "ccb_link": "",
+                "display_message": "",
+                "hint": "",
+                "spm_option_info": "",
+                "payment_channel_banners": [],
+                "always_show": false,
+                "spm_channel_id": 8002000,
+                "disabled_reason_key": 9,
+                "disabled_reason_learn_more_button_text": "",
+                "checkout_exposure": false,
+                "info_text": "",
+                "installment_banks": [],
+                "category": 15,
+                "priority": 106,
+                "icon": "https://shopee.co.id/static/images/ic_paymentoption_ccinstallment.png",
+                "version": 2,
+                "selected_channel_item": {
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "agency_uen": "",
+                        "identifier": "",
+                        "bank_name": "",
+                        "card_number": "",
+                        "expiry_date": "",
+                        "agency_shortname": "",
+                        "logo_url": "",
+                        "bank_id": 0
+                    },
+                    "error_code": 1,
+                    "error_message": "failed to get matching card"
+                },
+                "channel_blackbox": "",
+                "be_channel_id": 81500,
+                "icon_background": "",
+                "spm_extra_data": "",
+                "channel_provider": "",
+                "channel_id": 8002000,
+                "preselect_disabled": false,
+                "combined_reminder_text": "",
+                "subcategory": 15,
+                "info_link": "",
+                "extra_data": {
+                    "banned_categories": [],
+                    "include_shipping_and_discounts": false,
+                    "sub_description_1": "",
+                    "expiry_duration": 0,
+                    "eligible_transfer": "",
+                    "voucher_payment_type": 0,
+                    "alternate_channel_ids": [],
+                    "min_amount": 0,
+                    "sub_description_2": "",
+                    "max_checkout_price": 0,
+                    "expiry_extension": 0,
+                    "price_limit": 0,
+                    "v1_channel_grouping_info": {
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0,
+                        "channel_ids_to_combine": []
+                    }
+                },
+                "sub_description_info": {
+                    "first": {
+                        "highlight": false,
+                        "text": ""
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "groups": {
+                    "bank_transfer": false,
+                    "airpay": false,
+                    "seabank": false,
+                    "immediate": false,
+                    "bank_account": false,
+                    "installment": true,
+                    "spm_channel": true,
+                    "cod": false,
+                    "credit_card": true,
+                    "wallet": false,
+                    "general_card": true,
+                    "spl": false
+                },
+                "option_keys_name": [
+                    "installment_banks",
+                    "installment_plans"
+                ],
+                "is_new": false,
+                "disabled_reason_title": "",
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "promotions": [
+                    {
+                        "description": "Min. Pemb. 1JT",
+                        "start_time": 1669827626,
+                        "end_time": 1670432373,
+                        "is_fully_redeemed": false,
+                        "url": "https://shopee.co.id/bnicicil",
+                        "title": "DISKON",
+                        "discount_value": "25000",
+                        "discount_type": 1,
+                        "card_promotion_id": 5607,
+                        "bank_logo": "https://cf.shopee.co.id/file/f046df377f04b98472c9a6012bcceb99",
+                        "primary_color": "#005E74"
+                    },
+                    {
+                        "bank_logo": "https://cf.shopee.co.id/file/8c985d48d2ea2451d0c44e846bad2c87",
+                        "primary_color": "#1D2F61",
+                        "description": "Min. Pemb. 350RB",
+                        "card_promotion_id": 5601,
+                        "discount_value": "25000",
+                        "discount_type": 1,
+                        "is_fully_redeemed": false,
+                        "start_time": 1670173236,
+                        "end_time": 1670777958,
+                        "url": "https://shopee.co.id/mndvoucher",
+                        "title": "DISKON"
+                    },
+                    {
+                        "url": "https://shopee.co.id/mndvoucher",
+                        "discount_value": "20000",
+                        "discount_type": 1,
+                        "card_promotion_id": 5605,
+                        "bank_logo": "https://cf.shopee.co.id/file/8c985d48d2ea2451d0c44e846bad2c87",
+                        "start_time": 1670173230,
+                        "description": "Kuota promosi telah habis",
+                        "primary_color": "#1D2F61",
+                        "is_fully_redeemed": true,
+                        "end_time": 1670777980,
+                        "title": "DISKON"
+                    }
+                ],
+                "add_card_url": {
+                    "version": "1",
+                    "ui": "https://shopee.co.id/payment/channel_item/add/8002000/?post_to_tpp=True&block_cc=False&__mobile__=1&add_card_scene=1"
+                },
+                "has_wallet": false,
+                "description": "",
+                "flag": 44298297720897,
+                "name": "Cicilan Kartu Kredit",
+                "name_label": "label_nicepay_cc_installment",
+                "enabled": false
+            },
+            {
+                "always_show": false,
+                "enabled": true,
+                "add_card_button_label": "Tambah kartu baru BRI Direct Debit",
+                "ccb_text": "",
+                "display_message": "",
+                "version": 2,
+                "subcategory": 78,
+                "payment_result_text": "",
+                "channel_behavior": {
+                    "disable_instruction": true,
+                    "disable_cancel": false
+                },
+                "be_channel_id": 80129,
+                "cards": [],
+                "payment_channel_hints": [],
+                "disabled_reason": "",
+                "disabled_reason_title": "",
+                "wallet_balance": 0,
+                "payment_channel_banners": [],
+                "channel_id": 8012900,
+                "currency": "IDR",
+                "info_link": "https://shopee.co.id/m/bri-direct-debit-checkout",
+                "disabled_reason_learn_more_button_text": "",
+                "icon": "https://shopee.co.id/static/images/ic_sipp_bri_dd.png",
+                "disabled_reason_key": 0,
+                "add_card_url": {
+                    "ui": "https://shopee.co.id/payment/channel_item/add/8012900?__mobile__=1&to_local_spm=0&from_source=80001"
+                },
+                "hide_add_card_button": false,
+                "channel_provider": "",
+                "combined_reminder_text": "",
+                "description": "Debit Instan",
+                "country": "ID",
+                "name_label": "label_bri_direct_debit",
+                "spm_channel_id": 8012900,
+                "name": "BRI Direct Debit",
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "extra_data": {
+                    "voucher_payment_type": 0,
+                    "eligible_transfer": "",
+                    "max_checkout_price": 0,
+                    "expiry_duration": 0,
+                    "price_limit": 0,
+                    "v1_channel_grouping_info": {
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0
+                    },
+                    "include_shipping_and_discounts": false,
+                    "min_amount": 0,
+                    "sub_description_2": "",
+                    "expiry_extension": 0,
+                    "alternate_channel_ids": [],
+                    "banned_categories": [],
+                    "sub_description_1": ""
+                },
+                "checkout_exposure": false,
+                "icon_background": "",
+                "spm_extra_data": "",
+                "category": 78,
+                "spm_option_info": "",
+                "info_text": "",
+                "has_wallet": false,
+                "hint": "",
+                "option_keys_name": [],
+                "disabled_reason_learn_more": "",
+                "ccb_link": "",
+                "preselect_disabled": false,
+                "priority": 118,
+                "promotions": [],
+                "groups": {
+                    "credit_card": false,
+                    "spm_channel": true,
+                    "bank_transfer": false,
+                    "spl": false,
+                    "immediate": false,
+                    "wallet": false,
+                    "bank_account": false,
+                    "installment": false,
+                    "general_card": false,
+                    "cod": false,
+                    "airpay": false,
+                    "seabank": false
+                },
+                "is_new": false,
+                "selected_channel_item": {
+                    "error_message": "default card nil",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "logo_url": "",
+                        "bank_name": "",
+                        "card_number": "",
+                        "expiry_date": "",
+                        "agency_uen": "",
+                        "agency_shortname": "",
+                        "identifier": "",
+                        "bank_id": 0
+                    },
+                    "error_code": 1
+                },
+                "flag": 44023452794881,
+                "channel_blackbox": ""
+            },
+            {
+                "country": "ID",
+                "add_card_button_label": "Tambah Kartu OneKlik BCA Baru",
+                "combined_reminder_text": "",
+                "channel_id": 8000900,
+                "currency": "IDR",
+                "has_wallet": false,
+                "is_new": false,
+                "icon_background": "",
+                "add_card_url": {
+                    "ui": "https://shopee.co.id/payment/channel_item/add/8000900?__mobile__=1&to_local_spm=0&from_source=80001"
+                },
+                "hide_add_card_button": false,
+                "version": 2,
+                "description": "Debit Instan",
+                "icon": "https://shopee.co.id/static/images/ic_oneklik.png",
+                "extra_data": {
+                    "include_shipping_and_discounts": false,
+                    "sub_description_2": "",
+                    "v1_channel_grouping_info": {
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0
+                    },
+                    "min_amount": 0,
+                    "voucher_payment_type": 0,
+                    "expiry_extension": 0,
+                    "sub_description_1": "",
+                    "expiry_duration": 0,
+                    "alternate_channel_ids": [],
+                    "banned_categories": [],
+                    "price_limit": 0,
+                    "eligible_transfer": "",
+                    "max_checkout_price": 0
+                },
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "option_keys_name": [],
+                "selected_channel_item": {
+                    "error_code": 1,
+                    "error_message": "default card nil",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "bank_name": "",
+                        "expiry_date": "",
+                        "bank_id": 0,
+                        "agency_shortname": "",
+                        "identifier": "",
+                        "logo_url": "",
+                        "card_number": "",
+                        "agency_uen": ""
+                    }
+                },
+                "category": 53,
+                "name_label": "label_bca_oneklik_new",
+                "enabled": true,
+                "ccb_link": "",
+                "cards": [],
+                "channel_blackbox": "",
+                "ccb_text": "",
+                "payment_result_text": "",
+                "disabled_reason_learn_more_button_text": "",
+                "channel_behavior": {
+                    "disable_instruction": true,
+                    "disable_cancel": false
+                },
+                "channel_provider": "",
+                "subcategory": 53,
+                "flag": 44023452794881,
+                "spm_option_info": "",
+                "always_show": false,
+                "be_channel_id": 80090,
+                "spm_channel_id": 8000900,
+                "name": "BCA OneKlik",
+                "disabled_reason_learn_more": "",
+                "disabled_reason_key": 0,
+                "promotions": [],
+                "payment_channel_hints": [],
+                "display_message": "",
+                "priority": 120,
+                "payment_channel_banners": [],
+                "checkout_exposure": false,
+                "hint": "",
+                "disabled_reason_title": "",
+                "wallet_balance": 0,
+                "groups": {
+                    "spl": false,
+                    "wallet": false,
+                    "bank_account": false,
+                    "installment": false,
+                    "spm_channel": true,
+                    "cod": false,
+                    "seabank": false,
+                    "immediate": false,
+                    "credit_card": false,
+                    "general_card": false,
+                    "bank_transfer": false,
+                    "airpay": false
+                },
+                "preselect_disabled": false,
+                "info_text": "",
+                "disabled_reason": "",
+                "spm_extra_data": "",
+                "info_link": "https://shopee.co.id/m/payment-oneklik"
+            },
+            {
+                "channel_provider": "",
+                "combined_reminder_text": "",
+                "icon": "https://shopee.co.id/static/images/ic_mitrapay.png",
+                "info_link": "https://shopee.co.id/m/pay-in-mitra",
+                "payment_channel_banners": [],
+                "always_show": false,
+                "disabled_reason_learn_more_button_text": "",
+                "wallet_balance": 0,
+                "display_message": "",
+                "checkout_exposure": false,
+                "version": 2,
+                "selected_channel_item": {
+                    "error_message": "",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "identifier": "",
+                        "card_number": "",
+                        "bank_name": "",
+                        "expiry_date": "",
+                        "agency_uen": "",
+                        "agency_shortname": "",
+                        "logo_url": "",
+                        "bank_id": 0
+                    },
+                    "error_code": 0
+                },
+                "info_text": "",
+                "spm_extra_data": "",
+                "icon_background": "",
+                "flag": 26431233196033,
+                "channel_blackbox": "",
+                "extra_data": {
+                    "banned_categories": [],
+                    "max_checkout_price": 0,
+                    "sub_description_2": "",
+                    "v1_channel_grouping_info": {
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0,
+                        "channel_ids_to_combine": [],
+                        "channel_name": ""
+                    },
+                    "alternate_channel_ids": [],
+                    "sub_description_1": "",
+                    "price_limit": 0,
+                    "voucher_payment_type": 0,
+                    "include_shipping_and_discounts": false,
+                    "expiry_duration": 0,
+                    "expiry_extension": 0,
+                    "min_amount": 0,
+                    "eligible_transfer": ""
+                },
+                "name": "Mitra Shopee",
+                "hint": "",
+                "subcategory": 85,
+                "description": "",
+                "spm_option_info": "",
+                "ccb_text": "",
+                "currency": "IDR",
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "ccb_link": "",
+                "preselect_disabled": true,
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "payment_result_text": "",
+                "country": "ID",
+                "enabled": true,
+                "priority": 121,
+                "disabled_reason": "",
+                "has_wallet": false,
+                "category": 85,
+                "spm_channel_id": 8007201,
+                "option_keys_name": [],
+                "be_channel_id": 80721,
+                "disabled_reason_learn_more": "",
+                "groups": {
+                    "immediate": false,
+                    "credit_card": false,
+                    "wallet": false,
+                    "general_card": false,
+                    "spm_channel": true,
+                    "bank_account": false,
+                    "installment": false,
+                    "cod": false,
+                    "bank_transfer": false,
+                    "airpay": false,
+                    "seabank": false,
+                    "spl": false
+                },
+                "is_new": true,
+                "channel_id": 8007201,
+                "name_label": "label_mitrapay",
+                "disabled_reason_key": 0,
+                "disabled_reason_title": "",
+                "promotions": []
+            },
+            {
+                "payment_channel_banners": [],
+                "option_keys_name": [],
+                "preselect_disabled": false,
+                "disabled_reason_key": 0,
+                "category": 25,
+                "disabled_reason_learn_more": "",
+                "promotions": [],
+                "icon_background": "",
+                "currency": "IDR",
+                "disabled_reason": "",
+                "subcategory": 25,
+                "has_wallet": false,
+                "channel_blackbox": "",
+                "ccb_link": "",
+                "is_new": false,
+                "enabled": true,
+                "spm_channel_id": 8003200,
+                "name": "Alfamart/Alfamidi/Dan+Dan",
+                "display_message": "",
+                "checkout_exposure": false,
+                "name_label": "label_alfamart",
+                "disabled_reason_title": "",
+                "be_channel_id": 80013,
+                "channel_id": 8003200,
+                "icon": "https://shopee.co.id/static/images/ic_alfamart.png",
+                "spm_option_info": "",
+                "info_link": "https://shopee.co.id/m/payment-alfamart",
+                "payment_result_text": "",
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "ccb_text": "",
+                "version": 2,
+                "extra_data": {
+                    "sub_description_2": "",
+                    "expiry_duration": 0,
+                    "expiry_extension": 0,
+                    "voucher_payment_type": 0,
+                    "eligible_transfer": "",
+                    "banned_categories": [],
+                    "min_amount": 0,
+                    "sub_description_1": "",
+                    "alternate_channel_ids": [],
+                    "price_limit": 0,
+                    "max_checkout_price": 0,
+                    "include_shipping_and_discounts": false,
+                    "v1_channel_grouping_info": {
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0,
+                        "channel_ids_to_combine": []
+                    }
+                },
+                "sub_description_info": {
+                    "first": {
+                        "text": "",
+                        "highlight": false
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "spm_extra_data": "",
+                "hint": "",
+                "always_show": false,
+                "selected_channel_item": {
+                    "error_code": 0,
+                    "error_message": "",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "agency_uen": "",
+                        "agency_shortname": "",
+                        "identifier": "",
+                        "bank_name": "",
+                        "logo_url": "",
+                        "bank_id": 0,
+                        "card_number": "",
+                        "expiry_date": ""
+                    }
+                },
+                "priority": 123,
+                "info_text": "",
+                "combined_reminder_text": "",
+                "wallet_balance": 0,
+                "groups": {
+                    "bank_account": false,
+                    "installment": false,
+                    "spm_channel": true,
+                    "cod": false,
+                    "bank_transfer": false,
+                    "immediate": false,
+                    "credit_card": false,
+                    "wallet": false,
+                    "airpay": false,
+                    "spl": false,
+                    "general_card": false,
+                    "seabank": false
+                },
+                "disabled_reason_learn_more_button_text": "",
+                "description": "",
+                "country": "ID",
+                "channel_provider": "",
+                "flag": 44023436025923
+            },
+            {
+                "be_channel_id": 80015,
+                "icon": "https://shopee.co.id/static/images/ic_indomaret.png",
+                "icon_background": "",
+                "ccb_text": "",
+                "extra_data": {
+                    "banned_categories": [],
+                    "eligible_transfer": "",
+                    "alternate_channel_ids": [],
+                    "min_amount": 0,
+                    "include_shipping_and_discounts": false,
+                    "sub_description_2": "",
+                    "v1_channel_grouping_info": {
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0,
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": ""
+                    },
+                    "max_checkout_price": 0,
+                    "sub_description_1": "",
+                    "voucher_payment_type": 0,
+                    "expiry_duration": 0,
+                    "expiry_extension": 0,
+                    "price_limit": 0
+                },
+                "version": 2,
+                "country": "ID",
+                "priority": 124,
+                "spm_option_info": "",
+                "disabled_reason": "",
+                "disabled_reason_learn_more": "",
+                "channel_behavior": {
+                    "disable_instruction": false,
+                    "disable_cancel": false
+                },
+                "sub_description_info": {
+                    "second": {
+                        "highlight": false,
+                        "text": ""
+                    },
+                    "first": {
+                        "highlight": false,
+                        "text": ""
+                    }
+                },
+                "wallet_balance": 0,
+                "subcategory": 13,
+                "groups": {
+                    "general_card": false,
+                    "spm_channel": true,
+                    "cod": false,
+                    "bank_transfer": false,
+                    "airpay": false,
+                    "immediate": false,
+                    "wallet": false,
+                    "installment": false,
+                    "spl": false,
+                    "credit_card": false,
+                    "bank_account": false,
+                    "seabank": false
+                },
+                "disabled_reason_key": 0,
+                "channel_id": 8003001,
+                "currency": "IDR",
+                "disabled_reason_title": "",
+                "promotions": [],
+                "flag": 44023436025921,
+                "channel_provider": "",
+                "checkout_exposure": false,
+                "combined_reminder_text": "",
+                "always_show": false,
+                "preselect_disabled": false,
+                "is_new": false,
+                "name_label": "label_indomaret",
+                "info_link": "https://shopee.co.id/m/payment-indomaret",
+                "spm_extra_data": "",
+                "description": "",
+                "display_message": "",
+                "option_keys_name": [],
+                "info_text": "",
+                "selected_channel_item": {
+                    "error_message": "",
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "agency_shortname": "",
+                        "identifier": "",
+                        "bank_id": 0,
+                        "bank_name": "",
+                        "agency_uen": "",
+                        "logo_url": "",
+                        "card_number": "",
+                        "expiry_date": ""
+                    },
+                    "error_code": 0
+                },
+                "category": 13,
+                "payment_result_text": "",
+                "payment_channel_banners": [],
+                "channel_blackbox": "",
+                "disabled_reason_learn_more_button_text": "",
+                "name": "Indomaret/i.Saku",
+                "ccb_link": "",
+                "has_wallet": false,
+                "hint": "",
+                "enabled": true,
+                "spm_channel_id": 8003001
+            },
+            {
+                "ccb_text": "",
+                "flag": 8839047159809,
+                "always_show": false,
+                "country": "ID",
+                "spm_channel_id": 8005201,
+                "promotions": [],
+                "is_new": true,
+                "info_text": "",
+                "wallet_balance": 0,
+                "channel_blackbox": "",
+                "category": 41,
+                "icon_background": "",
+                "has_wallet": false,
+                "selected_channel_item": {
+                    "channel_item_id": 0,
+                    "channel_item_data": {
+                        "expiry_date": "",
+                        "agency_shortname": "",
+                        "logo_url": "",
+                        "card_number": "",
+                        "bank_name": "",
+                        "agency_uen": "",
+                        "identifier": "",
+                        "bank_id": 0
+                    },
+                    "error_code": 0,
+                    "error_message": ""
+                },
+                "icon": "https://shopee.co.id/static/images/ic_paymentoption_banktransfer.png",
+                "priority": 143,
+                "description": "",
+                "enabled": true,
+                "channel_id": 8005201,
+                "disabled_reason_title": "",
+                "checkout_exposure": false,
+                "combined_reminder_text": "",
+                "be_channel_id": 80080,
+                "disabled_reason_learn_more": "",
+                "channel_behavior": {
+                    "disable_cancel": false,
+                    "disable_instruction": false
+                },
+                "option_keys_name": [
+                    "banks"
+                ],
+                "currency": "IDR",
+                "name": "Bayar Tunai di Mitra/Agen",
+                "disabled_reason": "",
+                "payment_channel_banners": [],
+                "display_message": "",
+                "preselect_disabled": false,
+                "info_link": "",
+                "disabled_reason_key": 0,
+                "extra_data": {
+                    "expiry_extension": 0,
+                    "expiry_duration": 0,
+                    "sub_description_1": "",
+                    "sub_description_2": "",
+                    "banned_categories": [],
+                    "min_amount": 0,
+                    "include_shipping_and_discounts": false,
+                    "eligible_transfer": "",
+                    "v1_channel_grouping_info": {
+                        "channel_ids_to_combine": [],
+                        "channel_name": "",
+                        "icon_path": "",
+                        "icon_background": "",
+                        "group_id": 0,
+                        "version": 0
+                    },
+                    "max_checkout_price": 0,
+                    "voucher_payment_type": 0,
+                    "alternate_channel_ids": [],
+                    "price_limit": 0
+                },
+                "sub_description_info": {
+                    "first": {
+                        "highlight": false,
+                        "text": ""
+                    },
+                    "second": {
+                        "text": "",
+                        "highlight": false
+                    }
+                },
+                "spm_option_info": "",
+                "ccb_link": "",
+                "spm_extra_data": "",
+                "name_label": "label_sipp_offline",
+                "payment_result_text": "",
+                "subcategory": 41,
+                "version": 2,
+                "disabled_reason_learn_more_button_text": "",
+                "banks": [
+                    {
+                        "icon_background": "",
+                        "popup_confirmation_data": {
+                            "cancel_button_message": "Ubah Metode Pembayaran",
+                            "need_popup": false,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran"
+                        },
+                        "option_info": "89052011",
+                        "enabled": true,
+                        "disabled_reason": "",
+                        "description": "",
+                        "hide": false,
+                        "info_link": "https://shopee.co.id/m/agenbrilink",
+                        "bank_name": "Agen BRILink",
+                        "sub_description_info": {},
+                        "icon_label": "",
+                        "be_channel_id": 80081,
+                        "icon": "https://shopee.co.id/static/images/img_bankid_agen_brilink.png",
+                        "deep_link": "",
+                        "handling_fee": 0
+                    },
+                    {
+                        "disabled_reason": "",
+                        "deep_link": "",
+                        "hide": false,
+                        "be_channel_id": 80082,
+                        "option_info": "89052012",
+                        "description": "",
+                        "enabled": true,
+                        "icon": "https://shopee.co.id/static/images/img_bankid_bni_agen46.png",
+                        "sub_description_info": {},
+                        "handling_fee": 0,
+                        "bank_name": "BNI Agen46",
+                        "popup_confirmation_data": {
+                            "need_popup": false,
+                            "popup_message": "Jika ingin lanjut, akan menggunakan nomor Virtual Account baru, namun pesanan dengan Virtual Account sebelumnya tetap dapat dibayar.",
+                            "ok_button_message": "Lanjutkan Pembayaran",
+                            "cancel_button_message": "Ubah Metode Pembayaran"
+                        },
+                        "info_link": "https://shopee.co.id/m/bniagen46",
+                        "icon_background": "",
+                        "icon_label": ""
+                    }
+                ],
+                "groups": {
+                    "credit_card": false,
+                    "installment": false,
+                    "cod": false,
+                    "airpay": false,
+                    "spl": false,
+                    "immediate": false,
+                    "bank_account": false,
+                    "general_card": false,
+                    "spm_channel": true,
+                    "bank_transfer": true,
+                    "seabank": false,
+                    "wallet": false
+                },
+                "hint": "",
+                "channel_provider": ""
+            }
+        ],
+        "grouping_info": {
+            "groups": [
+                {
+                    "group_id": 0,
+                    "to_combine": [
+                        8000200,
+                        8005200,
+                        8003600,
+                        81000
+                    ],
+                    "display_info": {
+                        "name": "Transfer Bank",
+                        "promotion_info": {
+                            "text": ""
+                        },
+                        "description": "",
+                        "is_new": false,
+                        "channel_id": 8000200,
+                        "info_link": "https://shopee.co.id/m/transfer-bank",
+                        "info_text": "Pelajari Lebih Lanjut",
+                        "icon": "https://shopee.co.id/static/images/ic_paymentoption_banktransfer.png",
+                        "icon_background": "#ffffff",
+                        "version": 2
+                    }
+                },
+                {
+                    "group_id": 0,
+                    "to_combine": [
+                        8007201,
+                        8005201,
+                        8003200,
+                        8003001
+                    ],
+                    "display_info": {
+                        "channel_id": 8005201,
+                        "icon": "https://shopee.co.id/static/images/ic_paymentoption_banktransfer.png",
+                        "icon_background": "#ffffff",
+                        "info_link": "",
+                        "info_text": "",
+                        "name": "Bayar Tunai di Mitra/Agen",
+                        "promotion_info": {
+                            "text": ""
+                        },
+                        "version": 2,
+                        "description": "",
+                        "is_new": true
+                    }
+                }
+            ]
+        }
+    }
+}
+       

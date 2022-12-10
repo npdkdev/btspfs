@@ -1,0 +1,4 @@
+memory=True
+url=None
+harga=None
+mode=1

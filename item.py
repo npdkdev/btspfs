@@ -10,13 +10,16 @@ class Model:
     name: str
     price: int
     stock: int
+    
+    def is_flashsale(self):
+        pass
 
     def is_available(self):
         return self.stock != 0
 
 
 @dataclass
-class UpcomingFlashSaleInfo:
+class FlashSaleInfo:
     end_time: int
     price: int
     price_before_discount: int
@@ -31,7 +34,6 @@ class AddOnDealInfo:
     add_on_deal_label: str = None
     sub_type: int = None
 
-
 @dataclass
 class Item:
     item_id: int
@@ -44,16 +46,19 @@ class Item:
     shop_location: str
 
     # prepared for the future (if needed)
-    upcoming_flash_sale: UpcomingFlashSaleInfo
+    flash_sale: FlashSaleInfo
     add_on_deal_info: AddOnDealInfo
     price_min: int
     price_max: int
     stock: int
+    categories: dict
+    image: str
+    cb_option: int
     is_flash_sale: bool
 
     @staticmethod
     def get_price(price) -> int:
-        return price // 99999
+        return int(str(price)[:-5])
 
 
 @dataclass
